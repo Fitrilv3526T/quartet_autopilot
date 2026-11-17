@@ -1,0 +1,6 @@
+{
+  "startEquity": 10000,
+  "risk": 0.01,
+  "carryNotional": 0.4,
+  "enabled": { "rsi2": true, "ibs": true, "carry": true, "st": true }
+}
