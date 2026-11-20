@@ -1,1 +1,2 @@
 strategy,symbol,side,entry_utc,exit_utc,entry,exit,size_usd,pnl_usd,R,outcome
+rsi2,SPY,long,2026-11-18T21:00:00.000Z,2026-11-20T21:00:00.000Z,730.20001221,707.62770216,3234.94,-103.23,-1.032,stop
